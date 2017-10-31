@@ -1,6 +1,7 @@
 # Bitcode
 
 ## Decorator pattern
+Dynamically adds responsibility to the interface by wrapping the original code
 
 References https://assist-software.net/blog/implementation-decorator-pattern-c
 
