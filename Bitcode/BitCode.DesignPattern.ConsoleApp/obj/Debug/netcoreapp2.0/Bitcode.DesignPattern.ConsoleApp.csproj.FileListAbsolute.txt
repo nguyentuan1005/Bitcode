@@ -1,0 +1,13 @@
+C:\Code\Github\nguyentuan1005\Bitcode\Bitcode\Bitcode.DesignPattern.ConsoleApp\bin\Debug\netcoreapp2.0\Bitcode.DesignPattern.ConsoleApp.deps.json
+C:\Code\Github\nguyentuan1005\Bitcode\Bitcode\Bitcode.DesignPattern.ConsoleApp\bin\Debug\netcoreapp2.0\Bitcode.DesignPattern.ConsoleApp.runtimeconfig.json
+C:\Code\Github\nguyentuan1005\Bitcode\Bitcode\Bitcode.DesignPattern.ConsoleApp\bin\Debug\netcoreapp2.0\Bitcode.DesignPattern.ConsoleApp.runtimeconfig.dev.json
+C:\Code\Github\nguyentuan1005\Bitcode\Bitcode\Bitcode.DesignPattern.ConsoleApp\bin\Debug\netcoreapp2.0\Bitcode.DesignPattern.ConsoleApp.dll
+C:\Code\Github\nguyentuan1005\Bitcode\Bitcode\Bitcode.DesignPattern.ConsoleApp\bin\Debug\netcoreapp2.0\Bitcode.DesignPattern.ConsoleApp.pdb
+C:\Code\Github\nguyentuan1005\Bitcode\Bitcode\Bitcode.DesignPattern.ConsoleApp\obj\Debug\netcoreapp2.0\Bitcode.DesignPattern.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Code\Github\nguyentuan1005\Bitcode\Bitcode\Bitcode.DesignPattern.ConsoleApp\obj\Debug\netcoreapp2.0\Bitcode.DesignPattern.ConsoleApp.AssemblyInfoInputs.cache
+C:\Code\Github\nguyentuan1005\Bitcode\Bitcode\Bitcode.DesignPattern.ConsoleApp\obj\Debug\netcoreapp2.0\Bitcode.DesignPattern.ConsoleApp.AssemblyInfo.cs
+C:\Code\Github\nguyentuan1005\Bitcode\Bitcode\Bitcode.DesignPattern.ConsoleApp\obj\Debug\netcoreapp2.0\Bitcode.DesignPattern.ConsoleApp.dll
+C:\Code\Github\nguyentuan1005\Bitcode\Bitcode\Bitcode.DesignPattern.ConsoleApp\obj\Debug\netcoreapp2.0\Bitcode.DesignPattern.ConsoleApp.pdb
+C:\Code\Github\nguyentuan1005\Bitcode\Bitcode\Bitcode.DesignPattern.ConsoleApp\obj\Debug\netcoreapp2.0\Bitcode.DesignPattern.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Code\Github\nguyentuan1005\Bitcode\Bitcode\Bitcode.DesignPattern.ConsoleApp\bin\Debug\netcoreapp2.0\BitCode.DesignPattern.Decorator.dll
+C:\Code\Github\nguyentuan1005\Bitcode\Bitcode\Bitcode.DesignPattern.ConsoleApp\bin\Debug\netcoreapp2.0\BitCode.DesignPattern.Decorator.pdb
