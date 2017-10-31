@@ -1,6 +1,6 @@
 # Bitcode
 
-## Decorator
+## Decorator pattern
 
 References https://assist-software.net/blog/implementation-decorator-pattern-c
 
