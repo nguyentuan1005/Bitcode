@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitCode.DesignPattern.Decorator", "BitCode.DesignPattern.Decorator\BitCode.DesignPattern.Decorator.csproj", "{A8901554-6AD9-4B41-973A-D44555F2A604}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitCode.DesignPattern.ConsoleApp", "Bitcode.DesignPattern.ConsoleApp\BitCode.DesignPattern.ConsoleApp.csproj", "{487F4231-0097-4F3D-A1E7-6A9D834AA9FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitCode.DesignPattern.ConsoleApp", "Bitcode.DesignPattern.ConsoleApp\BitCode.DesignPattern.ConsoleApp.csproj", "{487F4231-0097-4F3D-A1E7-6A9D834AA9FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesignPatterns", "DesignPatterns", "{55196F5C-5615-4EEF-8C0D-D293108E0A9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,6 +26,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A8901554-6AD9-4B41-973A-D44555F2A604} = {55196F5C-5615-4EEF-8C0D-D293108E0A9A}
+		{487F4231-0097-4F3D-A1E7-6A9D834AA9FF} = {55196F5C-5615-4EEF-8C0D-D293108E0A9A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {29FF40C1-9082-4BE1-A82B-220F4B5C559E}
